@@ -1,7 +1,7 @@
 ### Hi , This is Abdul Kayuem👋
 
 
-- 🔭 I’m currently working From home 
+- 🔭 I’m currently working at bdtask
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate opensource
 - 💬 Ask me about Android or Any Tech Related or Java 
