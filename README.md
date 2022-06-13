@@ -13,8 +13,8 @@
 - 🔭 I’m currently working at Best Business Bond Limited(Troyee) as a Mobile application Developer
 -  🌱 I’m currently learning Kotlin
 - 🔭 I’m currently working with these: 
-- Language : dart, java, kotlin
-- Framewrok : Android, Flutter.
+  - Language : dart, java, kotlin
+  - Framewrok : Android, Flutter.
 - 👯 I’m looking to collaborate opensource
 - 💬 Ask me about Android or Any Tech Related or Java 
 - 📫 How to reach me: [LinkedIn - @Abdul Kayuem](https://www.linkedin.com/in/abdul-kayuem-a05a4714b/) , [Stack Overflow - @abdul_kayuem](https://stackoverflow.com/users/13137312/abdul-kayuem)
