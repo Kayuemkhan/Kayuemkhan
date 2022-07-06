@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Kayuem</h1>  
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="300" />
+<br>
 
 - 🔭 I’m currently working at Best Business Bond Limited(Troyee) as a Mobile application Developer
 -  🌱 I’m currently learning Kotlin
