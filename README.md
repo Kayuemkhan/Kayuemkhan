@@ -2,9 +2,11 @@
 [![Kayuemkhan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13137312)](https://stackoverflow.com/users/13137312/abdul-kayuem)
 
 
-<h1 align="center">Hi 👋, I'm Abdul Kayuem</h1>  
+<h1 align="center">Hi 👋, This is Abdul Kayuem. A Professional Mobile App Developer ( Flutter | Android )</h1>  
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1200" height="400" />
+
+<br>
 <br>
 
 - 🔭 I’m currently working at Best Business Bond Limited(Troyee) as a Mobile application Developer
@@ -24,11 +26,15 @@
 
   
 <h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
- </p>  
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/android_logo.svg"></code>
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/kotlin-logo.png"></code>
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/java_logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/rest2.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/nodejs_logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kayuemkhan&show_icons=true&locale=en&layout=compact" alt="Kayuemkhan" width="350" height="200" /></p>  
   
