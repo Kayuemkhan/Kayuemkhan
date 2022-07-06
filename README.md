@@ -7,7 +7,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1200" height="400" />
 
 <br>
-<br>
 
 - 🔭 I’m currently working at Best Business Bond Limited(Troyee) as a Mobile application Developer
 -  🌱 I’m currently learning Kotlin
@@ -19,13 +18,9 @@
 - 📫 How to reach me: [LinkedIn - @Abdul Kayuem](https://www.linkedin.com/in/abdul-kayuem-a05a4714b/) , [Stack Overflow - @abdul_kayuem](https://stackoverflow.com/users/13137312/abdul-kayuem)
 - 😄 Pronouns: He/His
   
-
-
-<br>
-<br>
-
   
 <h3 align="left">Languages and Tools:</h3>  
+<p>
 <code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/android_logo.svg"></code>
 <code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/kotlin-logo.png"></code>
 <code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/java_logo.svg"></code>
@@ -35,9 +30,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/nodejs_logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</p>  
+  
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kayuemkhan&show_icons=true&locale=en&layout=compact" alt="Kayuemkhan" width="350" height="200" /></p>  
-  
-<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kayuemkhan&show_icons=true&locale=en" alt="Kayuemkhan"  width="400" height="200"/>
+  <p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kayuemkhan&show_icons=true&locale=en" alt="Kayuemkhan"  width="400" height="200"/>
 <p></p>
   
