@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, This is Abdul Kayuem. A Professional Mobile App Developer ( Flutter | Android )</h1>  
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1200" height="400" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 
 <br>
 
