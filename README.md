@@ -12,7 +12,7 @@ App Developer ( Flutter | Android )</h2>
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 - Have 3 years of hands-on experience in **software development, team management**
 - Developed products for **healthcare, financial service, retail,** and **Restaurants** business domains.
-- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** architectures.
+- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **MVVM** architectures.
 
 #### What I'm doing?
 - 🏢 Working at **[Troyee](http://troyeebd.com/)** as a **SoftWare Engineer**.
