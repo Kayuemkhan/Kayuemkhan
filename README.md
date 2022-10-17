@@ -17,7 +17,7 @@ App Developer ( Flutter | Android )</h2>
 #### What I'm doing?
 - 🏢 Working at **[Troyee](http://troyeebd.com/)** as a **SoftWare Engineer**.
 - 👨‍💻 Writing `Java` `Kotlin` `XML` `Dart`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-rifat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Android , Flutter community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdulkayuem/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Android , Flutter community**.
 - 📚 Currently learning about **clean architecture**,  **Restarted Algorithms basics**.
 - 🛠️ Working on **Audio Video Call**, **Locations**, **Android With Native C/C++**, 
   **Machine Learning Using MLKIT**, professionally.
