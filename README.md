@@ -2,7 +2,7 @@
 [![Kayuemkhan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13137312)](https://stackoverflow.com/users/13137312/abdul-kayuem)
 
 <h2 align="center">Hi 👋, This is Abdul Kayuem. A Professional Mobile
-App Developer ( Flutter | Android )</h2>  
+Application Developer ( Flutter | Android )</h2>  
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 
@@ -15,7 +15,7 @@ App Developer ( Flutter | Android )</h2>
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **MVVM** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **[Troyee](http://troyeebd.com/)** as a **SoftWare Engineer**.
+- 🏢 Working at **[Genuity]([http://troyeebd.com/](https://www.genuitysystems.com/))** as a **SoftWare Engineer**.
 - 👨‍💻 Writing `Java` `Kotlin` `XML` `Dart`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdulkayuem/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Android , Flutter community**.
 - 📚 Currently learning about **clean architecture**,  **Restarted Algorithms basics**.
