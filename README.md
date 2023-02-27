@@ -18,7 +18,7 @@
 </p>
 
 <h2 align="center">Hi 👋, This is Abdul Kayuem. A Professional Mobile
-Application Developer ( Flutter | Android )</h2>  
+Application Developer (Flutter | Android)</h2>  
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 
@@ -51,7 +51,7 @@ Application Developer ( Flutter | Android )</h2>
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/abdulkayuem?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://github.com/Kayuemkhan/cf_stats/blob/main/output/light_card.svg" />
 </p>
 
 
