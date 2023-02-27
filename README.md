@@ -1,5 +1,21 @@
-![GitHub followers](https://img.shields.io/github/followers/Kayuemkhan?logo=GitHub&style=flat-square)
-[![Kayuemkhan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13137312)](https://stackoverflow.com/users/13137312/abdul-kayuem)
+<p align="left">
+  <a href="https://leetcode.com/abdulkayuem/">
+    <img src="https://cp-logo.vercel.app/leetcode/abdulkayuem" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/abdulkayuem007">
+    <b> CodeForces ( Max: 832 ) </b> 
+  </a>
+  <a href="https://stackoverflow.com/users/5921662/sudipto">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/Kayuemkhan?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kayuemkhan?color=green&logo=github">
+  </a>
+  <a href="https://github.com/Kayuemkhan/">
+    <img src="https://komarev.com/ghpvc/?username=Kayuemkhan" alt="visitors" />
+  </a>
+
+</p>
 
 <h2 align="center">Hi 👋, This is Abdul Kayuem. A Professional Mobile
 Application Developer ( Flutter | Android )</h2>  
@@ -32,6 +48,13 @@ Application Developer ( Flutter | Android )</h2>
   `choice of frameworks` and `tech culture`.
 
 #### What my skill set looks like?
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/abdulkayuem?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+</p>
+
+
 - 🖥 **Front-end:**
     - **📜 Languages:** • `🧙🏻 Java` • `👨‍🏭 XML` • `👨‍🔧 Kotlin` 
       • `🧚🏻‍♂️ Dart` • `👨🏻‍🎨 JavaScript`
