@@ -5,7 +5,7 @@
   <a href="https://codeforces.com/profile/abdulkayuem007">
     <img alt="GitHub followers" src="https://github.com/Kayuemkhan/cf_stats/blob/main/output/rating.svg"> 
   </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
+  <a href="https://stackoverflow.com/users/13137312/abdul-kayuem">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/Kayuemkhan?tab=followers">
