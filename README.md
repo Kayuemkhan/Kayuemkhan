@@ -85,7 +85,7 @@ Application Developer (Flutter | Android)</h2>
       • [BitBucket](https://bitbucket.org/product) 
     - **🗃 Project management:** 
       • [Trello Boards](https://trello.com/en)
-    - **🗂 CI/CD:** • • [Github Actions](https://github.com/features/actions)
+    - **🗂 CI/CD:** • [Github Actions](https://github.com/features/actions)
       • [Github Pages](https://pages.github.com/)
       
 - 🧙‍♂️ **Coding pattern & principles:**
