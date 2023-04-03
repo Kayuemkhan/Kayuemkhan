@@ -84,7 +84,7 @@ Application Developer (Flutter | Android)</h2>
     - **📁 Code repository:** • [Git](https://git-scm.com/) 
       • [BitBucket](https://bitbucket.org/product) 
     - **🗃 Project management:** 
-      • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards)
+<!--       • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) -->
       • [Trello Boards](https://trello.com/en)
     - **🗂 CI/CD:** • • [Github Actions](https://github.com/features/actions)
       • [Github Pages](https://pages.github.com/)
