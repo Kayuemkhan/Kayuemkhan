@@ -26,7 +26,7 @@ Application Developer (Flutter | Android)</h2>
 
 #### Who I am?
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
-- Have 3 years of hands-on experience in **software development, team management**
+- Have 3 years+ of hands-on experience in **software development, and team management**
 - Developed products for **fintech, retail,** and **Restaurants** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **MVVM** architectures.
 
@@ -41,13 +41,13 @@ Application Developer (Flutter | Android)</h2>
 - 🥰 Building **[Happy-Shopping](https://github.com/Kayuemkhan/Happy-Shopping)** 
    as a hobby.
 
-#### What I like to disscuss about?
+#### What I like to discuss?
 - 💬 Ask me about `java` `web APIs` `android` `scalability`
   `design patterns` `data structures` `coding speed hacks in android` 
   `clean code` `feasibility` 
   `choice of frameworks` and `tech culture`.
 
-#### What my skill set looks like?
+#### What does my skill set look like?
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/abdulkayuem?theme=light&font=Karma&ext=contest" />
@@ -60,7 +60,7 @@ Application Developer (Flutter | Android)</h2>
       • `🧚🏻‍♂️ Dart` • `👨🏻‍🎨 JavaScript`
     - **🔬 Frameworks:**
         - **🖥 Desktop:** •
-          [Windows Forms .NET](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0)
+          [Windows Forms . NET](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0)
           
         - **📱 Mobile:** 
           • [Android](https://www.android.com/)
