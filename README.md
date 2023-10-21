@@ -31,7 +31,7 @@ Application Developer (Flutter | Android)</h2>
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **MVVM** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **[Genuity]([http://www.genuitysystems.com/])** as a **Software Engineer**.
+- 🏢 Working at **[Genuity Systems]([http://www.genuitysystems.com/])** as a **Software Engineer**.
 - 👨‍💻 Writing `Java` `Kotlin` `XML` `Dart`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdulkayuem/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Android , Flutter community**.
 - 📚 Currently learning about **clean architecture**,  **Restarted Algorithms basics**.
@@ -60,7 +60,7 @@ Application Developer (Flutter | Android)</h2>
       • `🧚🏻‍♂️ Dart` • `👨🏻‍🎨 JavaScript`
     - **🔬 Frameworks:**
         - **🖥 Desktop:** •
-          [Windows Forms . NET](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0)
+          [Windows Forms. NET](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0)
           
         - **📱 Mobile:** 
           • [Android](https://www.android.com/)
