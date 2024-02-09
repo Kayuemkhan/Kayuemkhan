@@ -35,8 +35,7 @@ Application Developer (Flutter | Android)</h2>
 - 👨‍💻 Writing `Java` `Kotlin` `XML` `Dart`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdulkayuem/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Android , Flutter community**.
 - 📚 Currently learning about **clean architecture**,  **Restarted Algorithms basics**.
-- 🛠️ Working on **Audio Video Call**, **Locations**, **Android With Native C/C++**, 
-  **Machine Learning Using MLKIT**, professionally.
+- 🛠️ Working on **Audio Video Call**, **Locations**, **Security**, **Machine Learning Using MLKIT** professionally.
 - 👯 Looking to collaborate on **Android , Flutter projects**.
 - 🥰 Building **[Happy-Shopping](https://github.com/Kayuemkhan/Happy-Shopping)** 
    as a hobby.
