@@ -88,7 +88,7 @@ Application Developer (Flutter | Android)</h2>
       
 - 🧙‍♂️ **Coding pattern & principles:**
     - **⚒ Patterns:** 
-      • [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) 
+      • [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern) 
       • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
       • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
     - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.)
