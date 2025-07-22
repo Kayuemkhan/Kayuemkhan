@@ -2,8 +2,8 @@
   <a href="https://leetcode.com/abdulkayuem/">
     <img src="https://cp-logo.vercel.app/leetcode/abdulkayuem" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/abdulkayuem007">
-    <img alt="GitHub followers" src="https://github.com/Kayuemkhan/cf_stats/blob/main/output/rating.svg"> 
+  <a href="https://medium.com/@abdulkayuem007">
+    <img alt="Medium profile" src="https://github.com/Kayuemkhan/cf_stats/blob/main/output/rating.svg"> 
   </a>
   <a href="https://stackoverflow.com/users/13137312/abdul-kayuem">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
