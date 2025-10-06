@@ -24,13 +24,13 @@ Application Developer (Flutter | Android)</h2>
 
 <h1>About me</h1>
 
-#### Who I am?
+#### Who am I?
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
-- Have 4 years+ of hands-on experience in **software development, and team management**
+- Have 5 years+ of hands-on experience in **software development, and team management**
 - Developed products for **fintech, retail,** and **Restaurants** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **MVVM** architectures.
 
-#### What I'm doing?
+#### What am I doing?
 - 🏢 Working at **[Genuity Systems]([http://www.genuitysystems.com/])** as a **Software Engineer**.
 - 👨‍💻 Writing `Java` `Kotlin` `XML` `Dart`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdulkayuem/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Android , Flutter community**.
@@ -40,7 +40,7 @@ Application Developer (Flutter | Android)</h2>
 - 🥰 Building **[Happy-Shopping](https://github.com/Kayuemkhan/Happy-Shopping)** 
    as a hobby.
 
-#### What I like to discuss?
+#### What would you like to discuss?
 - 💬 Ask me about `java` `web APIs` `android` `scalability`
   `design patterns` `data structures` `coding speed hacks in android` 
   `clean code` `feasibility` 
