@@ -37,7 +37,7 @@ Application Developer (Flutter | Android)</h2>
 - 📚 Currently learning about **clean architecture**,  **Restarted Algorithms basics**.
 - 🛠️ Working on **Audio Video Call**, **Locations**, **Security**, **Machine Learning Using MLKIT** professionally.
 - 👯 Looking to collaborate on **Android , Flutter projects**.
-- 🥰 Building **[Happy-Shopping](https://github.com/Kayuemkhan/Happy-Shopping)** 
+- 🥰 Building **[Rick-Morty](https://github.com/Kayuemkhan/RickAndMorty)** 
    as a hobby.
 
 #### What would you like to discuss?
