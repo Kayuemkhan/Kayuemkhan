@@ -1,131 +1,91 @@
-<p align="left">
-  <a href="https://leetcode.com/abdulkayuem/">
-    <img src="https://cp-logo.vercel.app/leetcode/abdulkayuem" alt="Leet code rating" />
-  </a>
-  <a href="https://medium.com/@abdulkayuem007">
-    <img alt="Medium profile" src="https://github.com/Kayuemkhan/cf_stats/blob/main/output/rating.svg"> 
+<h2 align="center">
+Hi, I’m Abdul Kayuem 👋  
+Mobile Engineer | Android & Flutter
+</h2>
+
+<p align="center">
+Building scalable mobile applications used by large user bases.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kayuemkhan?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kayuemkhan?label=Followers&logo=github">
   </a>
   <a href="https://stackoverflow.com/users/13137312/abdul-kayuem">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?label=StackOverflow&logo=stackoverflow">
   </a>
-  <a href="https://github.com/Kayuemkhan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kayuemkhan?color=green&logo=github">
+  <a href="https://leetcode.com/abdulkayuem/">
+    <img src="https://cp-logo.vercel.app/leetcode/abdulkayuem">
   </a>
-  <a href="https://github.com/Kayuemkhan/">
-    <img src="https://komarev.com/ghpvc/?username=Kayuemkhan" alt="visitors" />
+  <a href="https://medium.com/@abdulkayuem007">
+    <img src="https://img.shields.io/badge/Medium-Articles-black?logo=medium">
   </a>
-
 </p>
 
-<h2 align="center">Hi 👋, This is Abdul Kayuem. A Professional Mobile
-Application Developer (Flutter | Android)</h2>  
+---
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
+## About Me
 
-<h1>About me</h1>
+I’m a Mobile Engineer with **5+ years of professional experience** building Android and Flutter applications across **fintech, retail, and food-tech** domains.
 
-#### Who am I?
-- A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
-- Have 5 years+ of hands-on experience in **software development, and team management**
-- Developed products for **fintech, retail,** and **Restaurants** business domains.
-- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **MVVM** architectures.
+I’ve worked on products serving **1M+ users** and systems managing **100K+ active groups**, where performance, stability, and maintainability actually matter—not just feature delivery.
 
-#### What am I doing?
-- 🏢 Working at **[Genuity Systems]([http://www.genuitysystems.com/])** as a **Software Engineer**.
-- 👨‍💻 Writing `Java` `Kotlin` `XML` `Dart`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdulkayuem/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Android , Flutter community**.
-- 📚 Currently learning about **clean architecture**,  **Restarted Algorithms basics**.
-- 🛠️ Working on **Audio Video Call**, **Locations**, **Security**, **Machine Learning Using MLKIT** professionally.
-- 👯 Looking to collaborate on **Android , Flutter projects**.
-- 🥰 Building **[Rick-Morty](https://github.com/Kayuemkhan/RickAndMorty)** 
-   as a hobby.
+My focus is on:
+- clean, readable, and testable code  
+- scalable architectures  
+- long-term maintainability over short-term hacks  
 
-#### What would you like to discuss?
-- 💬 Ask me about `java` `web APIs` `android` `scalability`
-  `design patterns` `data structures` `coding speed hacks in android` 
-  `clean code` `feasibility` 
-  `choice of frameworks` and `tech culture`.
+I strongly believe in **building software right from the start**, which is why I actively practice **Clean Architecture, SOLID principles, and Test-Driven Development (TDD)**.
 
-#### What does my skill set look like?
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/abdulkayuem?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://github.com/Kayuemkhan/cf_stats/blob/main/output/light_card.svg" />
-</p>
+---
 
+## What I Work With
 
-- 🖥 **Front-end:**
-    - **📜 Languages:** • `🧙🏻 Java` • `👨‍🏭 XML` • `👨‍🔧 Kotlin` 
-      • `🧚🏻‍♂️ Dart` • `👨🏻‍🎨 JavaScript`
-    - **🔬 Frameworks:**
-        - **🖥 Desktop:** •
-          [Windows Forms. NET](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0)
-          
-        - **📱 Mobile:** 
-          • [Android](https://www.android.com/)
-          • [Flutter](https://flutter.dev/) 
-          
-- 🗄️ **Back-end:**
-    - **📜 Languages:** • `🧙🏻‍♂️ JavaScript( NodeJS )`
-    - **🔭 Frameworks:** • [Express](https://expressjs.com/)
-    - **💾 Databases:** •
-      [MySql](https://www.mysql.com/) 
-      • [SQLite](https://www.sqlite.org/index.html) 
-      • [Hive](https://pub.dev/packages/hive) 
-      • [SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences)
-    - **🎛 System architecture:** 
-      • [Monolithic](https://microservices.io/patterns/monolithic.html)
-    - **🔌 Communication protocols:** 
-      • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) 
-      • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-      
-- 🎡 **Software development ecosystem:**
-    - **📁 Code repository:** • [Git](https://git-scm.com/) 
-      • [BitBucket](https://bitbucket.org/product) 
-    - **🗃 Project management:** 
-      • [Trello Boards](https://trello.com/en)
-    - **🗂 CI/CD:** • [Github Actions](https://github.com/features/actions)
-      
-- 🧙‍♂️ **Coding pattern & principles:**
-    - **⚒ Patterns:** 
-      • [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern) 
-      • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-      • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
-    - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.)
-      • [ACID](https://en.wikipedia.org/wiki/ACID)
-      • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) 
-      • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-    - **🕹 Frameworks:** 
-      • [Android](https://www.android.com/)
-      • [Flutter](https://flutter.dev/)
-        
-- 🧙‍♂   **Libraries:** 
-      • [Firebase](https://firebase.google.com/)
-      • [Retrofit](https://square.github.io/retrofit/)
-      • [HTTP](https://pub.dev/packages/http)
-      • [Agora](https://pub.dev/packages/agora_rtc_engine)
-      • [RxDart](https://pub.dev/packages/rxdart)
-      • [Google Map](https://developers.google.com/maps/documentation/android-sdk/start/)
-      
+**Mobile**
+- Android (Kotlin, Java)
+- Flutter (Dart)
+- MVVM, Clean Architecture
+- Coroutines, Rx, async programming
 
-- **🏗️ Code editors & IDE:**
-  • [Android Studio](https://developer.android.com/studio)
-  • [Xcode](https://developer.apple.com/xcode/)
-  • [Postman](https://www.postman.com/)
-  • [IntellIJ Idea For Java](https://www.jetbrains.com/idea/)
-  
+**Backend & APIs**
+- REST APIs, WebSockets
+- Node.js (basic service integration)
+- Firebase
 
-#### What's interesting about me?
-- 😎 I love to **speak** really good **english**, discuss **new ideas**, and make people **smile**.
-- 🧐 I love to be very **precise** and **thorough**.
-- ✍️ I write about **why a certain code is written instead of what** in the comments.
-- ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-- 😅 I just can't **resist the urge** to **explore** a new **tech** released
-  in the **Android** ecosystem.
+**Data & Storage**
+- SQLite, MySQL
+- SharedPreferences, Hive
+
+**Engineering Practices**
+- Git & GitHub Actions
+- Code reviews, refactoring
+- Performance optimization
+- Security-aware development
+
+---
+
+## Selected Work
+
+- **Rick & Morty App**  
+  A Flutter-based project focused on clean architecture and API-driven UI  
+  👉 https://github.com/Kayuemkhan/RickAndMorty
+
+---
+## How I Think About Engineering
+
+I prioritize correctness, readability, and maintainability over short-term speed.
+I prefer fewer abstractions done right rather than complex systems done fast.
 
 
-<!--Github Stats-->
+## Community & Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kayuemkhan&show_icons=true&locale=en&layout=compact" alt="Kayuemkhan" width="350" height="200" /></p>  <p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kayuemkhan&show_icons=true&locale=en" alt="Kayuemkhan"  width="400" height="200"/>
+- Active contributor to open-source projects
+- Regularly write about mobile engineering and software design
+- Interested in scalability, architecture decisions, and engineering culture
+
+---
 
 
+📫 **Connect**
+- LinkedIn: https://www.linkedin.com/in/abdulkayuem/
+- Medium: https://medium.com/@abdulkayuem007
