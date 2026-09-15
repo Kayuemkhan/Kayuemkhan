@@ -1,91 +1,84 @@
-<h2 align="center">
-Hi, I’m Abdul Kayuem 👋  
-Mobile Engineer | Android & Flutter
-</h2>
+# Abdul Kayuem
 
-<p align="center">
-Building scalable mobile applications used by large user bases.
-</p>
+**Senior Mobile Application Engineer | Team Lead — Android, iOS & Flutter**
 
-<p align="center">
-  <a href="https://github.com/Kayuemkhan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kayuemkhan?label=Followers&logo=github">
-  </a>
-  <a href="https://stackoverflow.com/users/13137312/abdul-kayuem">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?label=StackOverflow&logo=stackoverflow">
-  </a>
-  <a href="https://leetcode.com/abdulkayuem/">
-    <img src="https://cp-logo.vercel.app/leetcode/abdulkayuem">
-  </a>
-  <a href="https://medium.com/@abdulkayuem007">
-    <img src="https://img.shields.io/badge/Medium-Articles-black?logo=medium">
-  </a>
-</p>
+Dhaka, Bangladesh · Genuity Systems Ltd
+
+[![Followers](https://img.shields.io/github/followers/Kayuemkhan?label=Followers&logo=github)](https://github.com/Kayuemkhan?tab=followers)
+[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/5921662?label=StackOverflow&logo=stackoverflow)](https://stackoverflow.com/users/13137312/abdul-kayuem)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@abdulkayuem007)
 
 ---
 
-## About Me
+## About
 
-I’m a Mobile Engineer with **5+ years of professional experience** building Android and Flutter applications across **fintech, retail, and food-tech** domains.
+Mobile engineer with **6+ years of professional experience** (since June 2020), currently Team Lead for mobile engineering at Genuity Systems Ltd.
 
-I’ve worked on products serving **1M+ users** and systems managing **100K+ active groups**, where performance, stability, and maintainability actually matter—not just feature delivery.
+I build and ship production Android and iOS applications across **banking, VoIP/real-time communication, public-sector and field-operations systems, agriculture, and e-commerce** — including apps deployed for government programmes where field staff work in low-connectivity rural environments.
 
-My focus is on:
-- clean, readable, and testable code  
-- scalable architectures  
-- long-term maintainability over short-term hacks  
+Day to day I work across architecture, implementation, code review, release engineering, and production support, and I coordinate directly with business and QA stakeholders on requirements and release decisions.
 
-I strongly believe in **building software right from the start**, which is why I actively practice **Clean Architecture, SOLID principles, and Test-Driven Development (TDD)**.
+---
+
+## Production Apps Shipped
+
+| App | Domain | Platform |
+|---|---|---|
+| [DBL Go](https://play.google.com/store/apps/details?id=com.gplex.dhakabank) — Dhaka Bank mobile banking | Banking | Android |
+| [gTalkPBX](https://play.google.com/store/apps/details?id=com.gtalkpbx) — SIP softphone (PJSIP/pjsua2) | VoIP / Real-time | Android |
+| [GPlex Wallboard](https://apps.apple.com/us/app/gplex-wallboard/id6443449980) — contact-centre monitoring | Enterprise | **iOS** (App Store) |
+| [Tottho Apa](https://play.google.com/store/apps/details?id=bd.com.cmed.totthoapa) — digital health screening for community health workers | Public sector / field ops | Android |
+| [Pesticide Prescribers](https://play.google.com/store/apps/details?id=com.pesticides.prescriber) — farmer advisory, built with the Agricultural Department | Agriculture / public sector | Android |
+
+Published to both **Google Play** and the **Apple App Store**, including code signing, provisioning profiles, and store-listing compliance.
 
 ---
 
 ## What I Work With
 
-**Mobile**
-- Android (Kotlin, Java)
-- Flutter (Dart)
-- MVVM, Clean Architecture
-- Coroutines, Rx, async programming
+**Mobile** — Flutter (Dart), Android (Kotlin, Java), iOS (Swift platform channels), Jetpack, Coroutines, Flow
 
-**Backend & APIs**
-- REST APIs, WebSockets
-- Node.js (basic service integration)
-- Firebase
+**Architecture** — Clean Architecture, MVVM, SOLID, BLoC, Provider, GetX, custom/reusable widgets
 
-**Data & Storage**
-- SQLite, MySQL
-- SharedPreferences, Hive
+**Offline-First & Data** — offline-first local storage, background database synchronisation, conflict resolution, SQLite, Hive, Room, SharedPreferences, Firestore
 
-**Engineering Practices**
-- Git & GitHub Actions
-- Code reviews, refactoring
-- Performance optimization
-- Security-aware development
+**Security & Identity** — OAuth2, JWT session handling, biometric authentication, certificate pinning, Android Keystore / iOS Keychain, secure local storage
+
+**APIs & Cloud** — REST, Dio, WebSockets, GCP-hosted backend integration, Firebase Auth, Firebase Cloud Messaging (FCM), APNs
+
+**VoIP & Real-Time** — SIP, PJSIP/pjsua2, RTP/SRTP, push wake-up, Agora SDK
+
+**Quality & Release** — `flutter_test` unit and widget tests, Android JUnit, structured code reviews, Git, GitHub Actions CI/CD, Google Play Console, App Store Connect, Firebase Crashlytics
 
 ---
 
-## Selected Work
+## Selected Repositories
 
-- **Rick & Morty App**  
-  A Flutter-based project focused on clean architecture and API-driven UI  
-  👉 https://github.com/Kayuemkhan/RickAndMorty
+- **[RickAndMorty](https://github.com/Kayuemkhan/RickAndMorty)** — Android (Kotlin) reference app: MVVM, Hilt, Coroutines, Flow, Jetpack Room, Material Motion.
 
----
-## How I Think About Engineering
-
-I prioritize correctness, readability, and maintainability over short-term speed.
-I prefer fewer abstractions done right rather than complex systems done fast.
-
-
-## Community & Learning
-
-- Active contributor to open-source projects
-- Regularly write about mobile engineering and software design
-- Interested in scalability, architecture decisions, and engineering culture
+<!-- Replace / extend the list below with your currently pinned repositories.
+     Priority order for reviewers: Flutter + BLoC/Clean Architecture + tests first. -->
 
 ---
 
+## How I Approach Engineering
 
-📫 **Connect**
-- LinkedIn: https://www.linkedin.com/in/abdulkayuem/
-- Medium: https://medium.com/@abdulkayuem007
+- Correctness, readability, and maintainability over short-term delivery speed
+- Fewer abstractions done properly rather than many done quickly
+- Architecture decisions documented so the next engineer does not have to reverse-engineer them
+- Security treated as a design constraint, not a late-stage checklist
+
+---
+
+## Writing & Profiles
+
+- Medium — <https://medium.com/@abdulkayuem007>
+- LeetCode — <https://leetcode.com/abdulkayuem/>
+- Codeforces — <https://codeforces.com/profile/abdulkayuem007>
+
+---
+
+## Connect
+
+- LinkedIn — <https://www.linkedin.com/in/abdulkayuem/>
+- Email — abdulkayuem007@gmail.com
