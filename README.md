@@ -1,84 +1,214 @@
+<div align="center">
+
 # Abdul Kayuem
 
-**Senior Mobile Application Engineer | Team Lead — Android, iOS & Flutter**
+### Senior Mobile Application Engineer & Team Lead
 
-Dhaka, Bangladesh · Genuity Systems Ltd
+**Android · Flutter · Mobile Architecture · Fintech · VoIP / Real-Time Systems**
 
-[![Followers](https://img.shields.io/github/followers/Kayuemkhan?label=Followers&logo=github)](https://github.com/Kayuemkhan?tab=followers)
-[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/5921662?label=StackOverflow&logo=stackoverflow)](https://stackoverflow.com/users/13137312/abdul-kayuem)
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@abdulkayuem007)
+Building reliable mobile products from architecture to production.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Kayuem-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abdulkayuem/)
+[![Medium](https://img.shields.io/badge/Medium-Technical%20Writing-000000?style=flat-square\&logo=medium\&logoColor=white)](https://medium.com/@abdulkayuem007)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=flat-square\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/13137312/abdul-kayuem)
+[![GitHub](https://img.shields.io/github/followers/Kayuemkhan?label=Follow\&style=flat-square\&logo=github)](https://github.com/Kayuemkhan)
 
-## About
-
-Mobile engineer with **6+ years of professional experience** (since June 2020), currently Team Lead for mobile engineering at Genuity Systems Ltd.
-
-I build and ship production Android and iOS applications across **banking, VoIP/real-time communication, public-sector and field-operations systems, agriculture, and e-commerce** — including apps deployed for government programmes where field staff work in low-connectivity rural environments.
-
-Day to day I work across architecture, implementation, code review, release engineering, and production support, and I coordinate directly with business and QA stakeholders on requirements and release decisions.
+</div>
 
 ---
 
-## Production Apps Shipped
+## Engineering Mobile Products That Survive Production
 
-| App | Domain | Platform |
-|---|---|---|
-| [DBL Go](https://play.google.com/store/apps/details?id=com.gplex.dhakabank) — Dhaka Bank mobile banking | Banking | Android |
-| [gTalkPBX](https://play.google.com/store/apps/details?id=com.gtalkpbx) — SIP softphone (PJSIP/pjsua2) | VoIP / Real-time | Android |
-| [GPlex Wallboard](https://apps.apple.com/us/app/gplex-wallboard/id6443449980) — contact-centre monitoring | Enterprise | **iOS** (App Store) |
-| [Tottho Apa](https://play.google.com/store/apps/details?id=bd.com.cmed.totthoapa) — digital health screening for community health workers | Public sector / field ops | Android |
-| [Pesticide Prescribers](https://play.google.com/store/apps/details?id=com.pesticides.prescriber) — farmer advisory, built with the Agricultural Department | Agriculture / public sector | Android |
+I'm a **Senior Mobile Application Engineer and Team Lead** with **6+ years of professional experience** building, modernizing, and shipping mobile applications across Android, Flutter, and iOS delivery pipelines.
 
-Published to both **Google Play** and the **Apple App Store**, including code signing, provisioning profiles, and store-listing compliance.
+My work spans **banking, VoIP and real-time communication, contact-center systems, public-sector applications, field operations, agriculture, and commerce**.
+
+I work beyond UI implementation: architecture, API integration, offline synchronization, security, performance, code reviews, release engineering, production debugging, and technical decision-making are all part of my day-to-day engineering work.
+
+Currently working with **Genuity Systems Ltd.** in Dhaka, Bangladesh.
 
 ---
 
-## What I Work With
+## Production Engineering
 
-**Mobile** — Flutter (Dart), Android (Kotlin, Java), iOS (Swift platform channels), Jetpack, Coroutines, Flow
+Some systems I've worked on are publicly available in production:
 
-**Architecture** — Clean Architecture, MVVM, SOLID, BLoC, Provider, GetX, custom/reusable widgets
+| Product                                                                                              | Engineering Context                                                | Platform |
+| :--------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :------: |
+| **[DBL Go](https://play.google.com/store/apps/details?id=com.gplex.dhakabank)**                      | Mobile banking · legacy modernization · architecture & performance |  Android |
+| **[gTalk PBX](https://play.google.com/store/apps/details?id=com.gtalkpbx)**                          | SIP softphone · PJSIP/pjsua2 · VoIP · real-time communication      |  Android |
+| **[gPlex Wallboard](https://apps.apple.com/us/app/gplex-wallboard/id6443449980)**                    | Real-time contact-center monitoring and operational analytics      |    iOS   |
+| **[Tottho Apa](https://play.google.com/store/apps/details?id=bd.com.cmed.totthoapa)**                | Public-sector / community field operations                         |  Android |
+| **[Pesticide Prescribers](https://play.google.com/store/apps/details?id=com.pesticides.prescriber)** | Agricultural advisory and field-oriented workflows                 |  Android |
 
-**Offline-First & Data** — offline-first local storage, background database synchronisation, conflict resolution, SQLite, Hive, Room, SharedPreferences, Firestore
-
-**Security & Identity** — OAuth2, JWT session handling, biometric authentication, certificate pinning, Android Keystore / iOS Keychain, secure local storage
-
-**APIs & Cloud** — REST, Dio, WebSockets, GCP-hosted backend integration, Firebase Auth, Firebase Cloud Messaging (FCM), APNs
-
-**VoIP & Real-Time** — SIP, PJSIP/pjsua2, RTP/SRTP, push wake-up, Agora SDK
-
-**Quality & Release** — `flutter_test` unit and widget tests, Android JUnit, structured code reviews, Git, GitHub Actions CI/CD, Google Play Console, App Store Connect, Firebase Crashlytics
+These projects have required working with real production constraints: **existing codebases, security requirements, low-end devices, unreliable networks, release policies, backwards compatibility, and live users**.
 
 ---
 
-## Selected Repositories
+## What I Engineer
 
-- **[RickAndMorty](https://github.com/Kayuemkhan/RickAndMorty)** — Android (Kotlin) reference app: MVVM, Hilt, Coroutines, Flow, Jetpack Room, Material Motion.
+### Mobile Engineering
 
-<!-- Replace / extend the list below with your currently pinned repositories.
-     Priority order for reviewers: Flutter + BLoC/Clean Architecture + tests first. -->
+`Kotlin` · `Java` · `Dart` · `Flutter` · `Android SDK` · `Jetpack`
+
+I build native Android applications and cross-platform Flutter applications, including Flutter-to-native interoperability when platform-specific Android or iOS capabilities are required.
+
+### Architecture
+
+`Clean Architecture` · `MVVM` · `BLoC` · `GetX` · `SOLID` · `Repository Pattern`
+
+I prefer architecture that makes business logic testable, dependencies explicit, and large codebases easier for teams to evolve.
+
+### Concurrency & Reactive Systems
+
+`Kotlin Coroutines` · `Flow` · `Streams` · `Async/Await` · `WebSockets`
+
+Used for network orchestration, background operations, event-driven UI, synchronization, and real-time application behaviour.
+
+### Data & Offline-First Systems
+
+`Room` · `SQLite` · `Hive` · `DataStore` · `Firestore`
+
+Experience designing applications where connectivity cannot be assumed—local persistence, background synchronization, caching, retries, and conflict-aware data flows.
+
+### Networking & Backend Integration
+
+`REST` · `Dio` · `Retrofit` · `WebSockets` · `JSON` · `OAuth2` · `JWT`
+
+I work closely with backend teams on API contracts, authentication, failure handling, pagination, caching, and integration debugging.
+
+### VoIP & Real-Time Communication
+
+`SIP` · `PJSIP / pjsua2` · `RTP / SRTP` · `Agora` · `Push Notifications`
+
+Experience building communication applications involving SIP registration, incoming/outgoing calling, real-time state, push wake-up, and native SDK integration.
+
+### Mobile Security
+
+`Android Keystore` · `iOS Keychain` · `Biometrics` · `Certificate Pinning` · `Secure Storage`
+
+Security is treated as an architectural requirement rather than something added immediately before release.
+
+### Quality & Delivery
+
+`JUnit` · `flutter_test` · `Widget Tests` · `GitHub Actions` · `Crashlytics`
+
+I work across testing, code review, CI/CD, signing, provisioning, release preparation, Google Play Console, and App Store Connect.
 
 ---
 
-## How I Approach Engineering
+## Selected Engineering Work
 
-- Correctness, readability, and maintainability over short-term delivery speed
-- Fewer abstractions done properly rather than many done quickly
-- Architecture decisions documented so the next engineer does not have to reverse-engineer them
-- Security treated as a design constraint, not a late-stage checklist
+### 01 — 💰 Expense Tracker
 
----
+A Flutter personal-finance application focused on **clean architecture, practical state management, data persistence, and maintainable UI composition**.
 
-## Writing & Profiles
+**Flutter · Dart · Clean Architecture · State Management · Local Persistence**
 
-- Medium — <https://medium.com/@abdulkayuem007>
-- LeetCode — <https://leetcode.com/abdulkayuem/>
-- Codeforces — <https://codeforces.com/profile/abdulkayuem007>
+The project demonstrates how I structure Flutter applications around clear responsibilities, reusable components, predictable state, and maintainable business logic.
+
+> Add your Expense Tracker repository link here.
 
 ---
 
-## Connect
+### 02 — 🧪 [RickAndMorty](https://github.com/Kayuemkhan/RickAndMorty)
 
-- LinkedIn — <https://www.linkedin.com/in/abdulkayuem/>
-- Email — abdulkayuem007@gmail.com
+A modern Android reference application demonstrating production-oriented architecture and Android development practices.
+
+**Kotlin · MVVM · Hilt · Coroutines · Flow · Room · ViewModel · Material Motion**
+
+Highlights separation of concerns, dependency injection, reactive data flows, persistence, and maintainable Android architecture.
+
+---
+
+### 03 — 🤖 [Freshness Detector](https://github.com/Kayuemkhan/Freshness-Detector)
+
+An Android application using **TensorFlow Lite** for on-device classification of fresh and stale fruits and vegetables.
+
+**Android · Java · TensorFlow Lite · Machine Learning · Computer Vision**
+
+Demonstrates mobile ML integration, on-device inference, and extending traditional mobile development into intelligent applications.
+
+---
+
+## Engineering Principles
+
+```text
+Correctness before cleverness.
+
+Architecture should reduce complexity, not create it.
+
+Offline and failure states are product requirements.
+
+Security belongs in the design.
+
+Performance problems should be measured before they are optimized.
+
+Code is written for the next engineer as much as for the compiler.
+```
+
+I care particularly about **maintainability, observable failure modes, performance on real devices, explicit architecture boundaries, and systems that remain understandable as teams and feature sets grow**.
+
+---
+
+## Technical Writing
+
+I write about Android, Flutter, debugging, architecture, and lessons from production systems.
+
+### Recent Writing
+
+**[75 Red Flags for Android Developer Interview](https://medium.com/@abdulkayuem007/75-red-flags-for-android-developer-interview-aa190635a543)**
+
+Android concepts and engineering mistakes developers are expected to understand beyond basic framework usage.
+
+**[Understanding Pass by Value and Reference in Dart](https://medium.com/@abdulkayuem007/understanding-pass-by-value-and-reference-in-dart-with-key-examples-3c2e7876d37b)**
+
+A practical explanation of Dart's object and reference semantics.
+
+→ **[Read more on Medium](https://medium.com/@abdulkayuem007)**
+
+---
+
+## Problem Solving & Community
+
+I stay active in programming and developer communities alongside production engineering.
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-abdulkayuem-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/abdulkayuem/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-abdulkayuem007-1F8ACB?style=flat-square\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/abdulkayuem007)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-abdul__kayuem-F58025?style=flat-square\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/13137312/abdul-kayuem)
+
+---
+
+## Current Areas of Focus
+
+* Advanced Android architecture and internals
+* Scalable Flutter architecture
+* Mobile system design
+* Native ↔ Flutter interoperability
+* VoIP and real-time communication
+* Mobile security
+* Offline-first application design
+* Automated testing and CI/CD
+* Cloud-backed mobile systems
+* AI-assisted engineering workflows
+
+---
+
+## Beyond GitHub
+
+<div align="center">
+
+[**LinkedIn**](https://www.linkedin.com/in/abdulkayuem/) ·
+[**Medium**](https://medium.com/@abdulkayuem007) ·
+[**Stack Overflow**](https://stackoverflow.com/users/13137312/abdul-kayuem) ·
+[**LeetCode**](https://leetcode.com/abdulkayuem/) ·
+[**Codeforces**](https://codeforces.com/profile/abdulkayuem007) ·
+[**Fiverr**](https://www.fiverr.com/abdulkayuem275)
+
+<br>
+
+**Open to meaningful mobile engineering, architecture, and product collaborations.**
+
+📧 **[abdulkayuem007@gmail.com](mailto:abdulkayuem007@gmail.com)**
+
+</div>
