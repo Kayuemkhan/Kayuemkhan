@@ -99,7 +99,7 @@ I work across testing, code review, CI/CD, signing, provisioning, release prepar
 
 ## Selected Engineering Work
 
-### 01 — 💰 Expense Tracker
+### [01 — 💰 Expense Tracker](https://github.com/Kayuemkhan/expense-tracker)
 
 A Flutter personal-finance application focused on **clean architecture, practical state management, data persistence, and maintainable UI composition**.
 
